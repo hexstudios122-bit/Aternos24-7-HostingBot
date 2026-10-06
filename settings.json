@@ -1,21 +1,21 @@
 {
-  "name": "AFK Bot",
+  "name": "24-7_bot_thing",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "imgonnabustanut",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
-    "version": "",
+    "ip": "stax-fMKO.aternos.me:25380",
+    "port": 25380,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -27,511,
+    "y": 62,
+    "z": 149,832
   },
   "utils": {
     "auto-auth": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I Keep The server running",
+        "Dont kill me >:(!",
+        "Im a bot lol XD"
       ]
     },
     "chat-log": true,
@@ -79,7 +79,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.gg/cMkusMhD",
     "events": {
       "connect": true,
       "disconnect": true,
